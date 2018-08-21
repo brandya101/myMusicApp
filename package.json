@@ -1,0 +1,31 @@
+{
+  "name": "repple-music",
+  "version": "1.0.0",
+  "description": "music app with nodejs and express js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandya101/myMusicApp.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "music-server",
+    "express",
+    "streams",
+    "pipe"
+  ],
+  "author": "CompaTech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandya101/myMusicApp/issues"
+  },
+  "homepage": "https://github.com/brandya101/myMusicApp#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "npm": "^6.4.0"
+  }
+}
